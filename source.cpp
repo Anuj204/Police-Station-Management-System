@@ -144,7 +144,7 @@ void mainpage()
   cout <<"\t\t\t\t";
   cout <<"Prepared By    ";
   cout <<":";
-  cout <<"   Chetan Khunti";
+  cout <<"   Chetan Ki";
   cout <<"\n\n";
   cout <<"\t\t\t\t";
   cout <<"Enrollment No  ";
